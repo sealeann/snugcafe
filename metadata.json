@@ -1,0 +1,8 @@
+{
+  "name": "Snug Cafe — Sip, Snuggle, Repeat",
+  "description": "Snug Cafe promotional campaign, interactive signature drink & plushie buddy reservation, and marketing plan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
